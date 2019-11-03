@@ -13,6 +13,12 @@
       "commands": [
         "dotnet-aspnet-codegenerator"
       ]
+    },
+    "dotnet-script": {
+      "version": "0.50.1",
+      "commands": [
+        "dotnet-script"
+      ]
     }
   }
 }
